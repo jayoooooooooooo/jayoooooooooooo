@@ -1,4 +1,4 @@
-HI, I'AM Jayoo
+Hi, I'm Jayoo
 
 👨🏻‍💻 IT STUDENT <br/>
 
