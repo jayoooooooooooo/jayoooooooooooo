@@ -3,6 +3,7 @@ Hi, I'm Jayoo
 👨🏻‍💻 IT STUDENT <br/>
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jayoo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_jayoo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@its_jayooooo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonasdhernandez.19@gmail.com) 
 
